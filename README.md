@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Wesley Ulisses
+I love technology, and i currently study information systems in the Instituto Federal de Educação, Ciência e Tecnologia Baiano
 
 <!--
 **WesleyUlisses/WesleyUlisses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
