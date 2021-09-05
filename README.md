@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<img height="180em" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css%22%3E"/>
 <\div>
