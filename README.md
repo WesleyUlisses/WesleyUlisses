@@ -11,9 +11,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Rafa-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   
   
 </div>
