@@ -2,6 +2,16 @@
 ___________________________________________________________________________________________________________________________________________________
 I love technology, and i currently study information systems in the Instituto Federal de Educação, Ciência e Tecnologia Baiano
 ___________________________________________________________________________________________________________________________________________________
-![Seja Bem-Vindo ao Meu GitHub (2)](https://user-images.githubusercontent.com/90068576/132256373-15b90743-41d3-45f1-8198-5a9e99b5dee4.gif)
+<div>
+  <a href="https://github.com/WesleyUlisses">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=dark"/>
+</div>
 ___________________________________________________________________________________________________________________________________________________
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+</div>
 
+  ![Snake animation](https://github.com/rafaballerini/WesleyUlisses/blob/output/github-contribution-grid-snake.svg)
