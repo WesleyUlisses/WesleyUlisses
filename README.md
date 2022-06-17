@@ -14,7 +14,9 @@ ________________________________________________________________________________
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  ![Snake animation](https://github.com/rafaballerini/WesleyUlisses/blob/output/github-contribution-grid-snake.svg)
+<div> 
+  
+  ![Snake animation](https://github.com/WesleyUlisses/WesleyUlisses/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
