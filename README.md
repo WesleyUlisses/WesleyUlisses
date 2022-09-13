@@ -1,12 +1,12 @@
-### Hi there 👋 I am Wesley Ulisses
+### Hello 👋 I am Wesley Ulisses
 ____________________________________________________________________________________________________________________________________________________
-I love technology, and i currently study information systems in the Instituto Federal de Educação, Ciência e Tecnologia Baiano
+Hello friends, i´m a student of Informations Systems in the Federal Institute of Education, Science and Technology, I Was always  lovely for technology, for development, construct new things, for this i'm worked how developer and i am doing a some projects for to improve my university with a some friends
 ____________________________________________________________________________________________________________________________________________________
 
 <div>
   <a href="https://github.com/WesleyUlisses">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ____________________________________________________________________________________________________________________________________________________
