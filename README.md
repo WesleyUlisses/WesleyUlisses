@@ -1,12 +1,12 @@
 ### Hello 👋 I am Wesley Ulisses
 ____________________________________________________________________________________________________________________________________________________
-Hello friends, i'm a student of Informations Systems in the Federal Institute of Education, Science and Technology, I Was always  lovely for technology, for development, construct new things, for this i'm worked how developer and i'm doing a some projects for to improve my university with a some friends
+I student’s bachelor in information systems, in the federal institute of science, education and technology, always i lovely technology area, to this i’m trying to learning all days, not only about the TICs, together i'm try improve me interpersonal skills, because the main virtues of human are to live together, think in others and work with a team for to improve and relevant, this are the abilities that help the good professional.
 ____________________________________________________________________________________________________________________________________________________
 
 <div>
   <a href="https://github.com/WesleyUlisses">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ____________________________________________________________________________________________________________________________________________________
