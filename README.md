@@ -1,22 +1,51 @@
 ### Hello 👋 I am Wesley Ulisses
 ____________________________________________________________________________________________________________________________________________________
-I student’s bachelor in information systems, in the federal institute of science, education and technology, always i lovely technology area, to this i’m trying to learning all days, not only about the TICs, together i'm try improve me interpersonal skills, because the main virtues of human are to live together, think in others and work with a team for to improve and relevant, this are the abilities that help the good professional.
+I am a developer with two years of experience in the field. My main skills are in Java, JavaScript, and Node. I have advanced knowledge in libraries such as React, React Native, AWT, and Swing. I also have knowledge in AWS EC2 and S3, and I have used Microsoft Azure DevOps and Trello to manage projects in the past.
+
+Throughout my career, I have had the opportunity to lead software development teams in some projects. I have worked with APIs, developing solutions for clients in different business areas.
+
+Currently, I am pursuing a bachelor's degree in Information Systems at the Federal Institute of Education, Science, and Technology. I am always looking to improve my programming and technology skills and knowledge, and I am passionate about projects that challenge me and allow me to grow professionally.
 ____________________________________________________________________________________________________________________________________________________
 
+```js
+import Desenvolvedor from 'WesleyUlisses';
+
+class SobreMim extends Desenvolvedor
+{
+  nome     = 'Wesley Ulisses Santos';
+  area     = 'Support Operations and Full Stack';
+  trabalho = 'WEX inc and LabsIF';
+  local    = 'Anywhere Office';
+}
+
+class Skills extends Desenvolvedor
+{
+  linguagens    = ['Java, JavaScript, Node, Dart'];
+  bibliotecas   = ['AWT, Swing'];
+  frameworks    = ['Spring, Fluter, React Native, React'];
+  database      = ['MySql, Oracle, Firebase'];
+  devops        = ['Azure DevOps, Docker, Datadog'];
+  cloud         = ['AWS EC2, ECS, IAM, S3'];
+  gerenciamento = ['Trello, Azure DevOps'];
+}
+```
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wesleyulisses0@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/wesleyulisses/)" /></a>
+
+</p> 
 <div>
   <a href="https://github.com/WesleyUlisses">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ____________________________________________________________________________________________________________________________________________________
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wes-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Wes-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Wes-C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-  
-</div>
 
 <div> 
   
