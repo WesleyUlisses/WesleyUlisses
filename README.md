@@ -1,16 +1,18 @@
 <!--Titulo -->
 <h3 align="center">
-        <samp>&gt; Fale pessoal! tudo certo?✌️😁 Wesley Ulisses aqui, bora lá conhecer meu github?
+        <samp>&gt; Fala pessoal! tudo certo?✌️😁 Wesley Ulisses aqui, bora lá conhecer meu github?
         </samp>
 </h3>
 
 
 ____________________________________________________________________________________________________________________________________________________
-Eu sou um desenvolvedor com dois anos de experiência na área. Minhas principais habilidades são em Java, JavaScript e Node. Tenho conhecimento avançado em bibliotecas como React, React Native, AWT e Swing.  Eu também possuo conhecimentos em AWS EC2 e S3, além de ter utilizado Microsoft Azure DevOps e Trello para gerenciar projetos no passado.
+Eu sou um desenvolvedor com dois anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Além de desenvolvedor também faço parte do time de uma empresa incrivel que é a WEX inc, atualmente intégro o time de Supporte Operations lá e tenho aprendido e colaborado bastante além de aprender e melhor demais meu inglês, uma vez que a WEX é uma empresa norte americana.
 
-Ao longo da minha carreira, tive a oportunidade de liderar equipes de desenvolvimento de software em alguns projetos. Trabalhei com APIs, desenvolvendo soluções para clientes em diferentes áreas de negócio.
+Minhas principais habilidades são em Java, JavaScript e Node. Tenho conhecimento avançado em bibliotecas como React, React Native, AWT e Swing. Além de também possuir conhecimentos em AWS EC2 e S3 (que cheguem logo essas certificações 🙂), também tenho amplo conhecimento nas plataformas Microsoft Azure DevOps e Trello pois fiz uso das mesmas em meu trabelho na Wex e em minhas experiencias de gerenciamento de times de desenvolmento.
 
-Atualmente, estou cursando bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia. Estou sempre buscando aprimorar minhas habilidades e conhecimentos em programação e tecnologia, e sou apaixonado por projetos que me desafiam e me permitem crescer profissionalmente.
+Atualmente, estou cursando bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia e vivo sempre buscando aprimorar minhas habilidades e conhecimentos em programação e tecnologia.
+
+Quase me esqueci, sou amante da área de educação e sigo dentro da minha instuição de ensido desenvolvendo projetos para aprimoramento de oportunidades de aprendizado de outras pessoas, inclusive meu TCC passa pela junção das duas áreas que mais amo, logo espero poder compartilhar com vocês aqui está pesquisa que está ficando show!
 ____________________________________________________________________________________________________________________________________________________
 
 <!--Titulo -->
