@@ -84,7 +84,14 @@ ________________________________________________________________________________
 
 * GPT, prompts para melhor aproveitamento da ferramenta.
 
+### Seguem ai alguns repositorios para a comunidade Open Source 
+____________________________________________________________________________________________________________________________________________________
+https://github.com/WesleyUlisses/Aprendendo-ensinando---Versionamento
 
+[![Carreira de Ti](https://github-readme-stats.vercel.app/api/pin/?username=WesleyUlisses&repo=Aprendendo-ensinando---Versionamento-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/WesleyUlisses/Aprendendo-ensinando---Versionamento)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
 
 <div> 
   
