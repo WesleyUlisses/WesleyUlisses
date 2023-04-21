@@ -6,7 +6,7 @@
 
 
 ____________________________________________________________________________________________________________________________________________________
-Eu sou um desenvolvedor com dois anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Além de desenvolvedor também faço parte do time de uma empresa incrivel que é a WEX inc, atualmente intégro o time de Supporte Operations lá e tenho aprendido e colaborado bastante além de aprender e melhor demais meu inglês, uma vez que a WEX é uma empresa norte americana.
+Eu sou um desenvolvedor com dois anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Além de desenvolvedor também faço parte do time de uma empresa incrivel que é a WEX inc, atualmente intégro o time de Supporte Operations lá e tenho aprendido e colaborado bastante além de aprender e melhorar demais meu inglês, uma vez que a WEX é uma empresa norte americana.
 
 Minhas principais habilidades são em Java, JavaScript e Node. Tenho conhecimento avançado em bibliotecas como React, React Native, AWT e Swing. Além de também possuir conhecimentos em AWS EC2 e S3 (que cheguem logo essas certificações 🙂), também tenho amplo conhecimento nas plataformas Microsoft Azure DevOps e Trello pois fiz uso das mesmas em meu trabelho na Wex e em minhas experiencias de gerenciamento de times de desenvolmento.
 
