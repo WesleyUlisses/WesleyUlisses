@@ -1,4 +1,10 @@
-### Hello 👋 I am Wesley Ulisses
+<!--Titulo -->
+<h3 align="center">
+        <samp>&gt; Fale pessoal! tudo certo?✌️😁 Wesley Ulisses aqui, bora lá conhecer meu github?
+        </samp>
+</h3>
+
+
 ____________________________________________________________________________________________________________________________________________________
 Eu sou um desenvolvedor com dois anos de experiência na área. Minhas principais habilidades são em Java, JavaScript e Node. Tenho conhecimento avançado em bibliotecas como React, React Native, AWT e Swing.  Eu também possuo conhecimentos em AWS EC2 e S3, além de ter utilizado Microsoft Azure DevOps e Trello para gerenciar projetos no passado.
 
@@ -6,6 +12,13 @@ Ao longo da minha carreira, tive a oportunidade de liderar equipes de desenvolvi
 
 Atualmente, estou cursando bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia. Estou sempre buscando aprimorar minhas habilidades e conhecimentos em programação e tecnologia, e sou apaixonado por projetos que me desafiam e me permitem crescer profissionalmente.
 ____________________________________________________________________________________________________________________________________________________
+
+<!--Titulo -->
+<h3 align="center">
+        <samp>&gt; Funções atuais e tecnologias
+        </samp>
+</h3>
+
 
 ```js
 import Desenvolvedor from 'WesleyUlisses';
@@ -51,7 +64,11 @@ class Skills extends Desenvolvedor
 ____________________________________________________________________________________________________________________________________________________
 
   
-## **O que verão em meu perfi?**
+###  O que verão em meu perfi? 🤔
+
+
+____________________________________________________________________________________________________________________________________________________
+
 
 * Aqui poderemos ver projetos como o guia prático de versionamento, um projeto aberto onde todos podemos redigir um pouco deste guia, pensando sempre que o mesmo será uma ferramenta para auxiliar quem trabalha com programação e principalmente que está começando agora nesta área tão grande.
 
