@@ -156,7 +156,7 @@ ________________________________________________________________________________
 
 <br/>
 <h5 align="center">
-        <samp>&gt; Uma vez ouvi uma frase que ficou cravada em minha mente, 
+        <samp> Uma vez ouvi uma frase que ficou cravada em minha mente, 
                 "Se você não tentar jamais vai aprender",
                 e ela pode ser adaptada a diversos contextos incluse esté daqui, então, bora somar galera! Se tem duvidas compartilhe, porquê se não tirá-las tú terás dificuldade de avançar.🫡
         </samp>
