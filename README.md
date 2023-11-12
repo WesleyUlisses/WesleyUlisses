@@ -6,11 +6,11 @@
 
 
 ____________________________________________________________________________________________________________________________________________________
-Eu sou um desenvolvedor com dois anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Além de desenvolvedor também faço parte do time de uma empresa incrivel que é a WEX inc, atualmente intégro o time de Supporte Operations lá e tenho aprendido e colaborado bastante além de aprender e melhorar demais meu inglês, uma vez que a WEX é uma empresa norte americana.
+Eu sou um desenvolvedor com dois anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Faço parte do time de uma empresa incrivel que é a WEX inc, onde intégro o time de Softwares Developers Engineers, lá e tenho aprendido e colaborado bastante além de melhorar demais meu inglês, uma vez que a WEX é uma empresa norte americana.
 
-Minhas principais habilidades são em Java, JavaScript e Node. Tenho conhecimento avançado em bibliotecas como React, React Native, AWT e Swing. Além de também possuir conhecimentos em AWS EC2 e S3 (que cheguem logo essas certificações 🙂), também tenho amplo conhecimento nas plataformas Microsoft Azure DevOps e Trello pois fiz uso das mesmas em meu trabelho na Wex e em minhas experiencias de gerenciamento de times de desenvolmento.
+Minhas principais habilidades são em C#, Java e Python. Tenho conhecimento avançado em bibliotecas como AWT e Swing. Além de também possuir conhecimentos em AWS EC2 e S3 (que cheguem logo essas certificações 🙂), também tenho amplo conhecimento nas plataformas Clickup, Microsoft Azure DevOps e Trello pois faço uso no gerenciamento de times de desenvolmento e no dia dia.
 
-Atualmente, estou cursando bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia e vivo sempre buscando aprimorar minhas habilidades e conhecimentos em programação e tecnologia.
+Atualmente no 5º periodo, estou cursando bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia e vivo sempre buscando aprimorar minhas habilidades e conhecimentos em programação e tecnologia.
 
 Quase me esqueci, sou amante da área de educação e sigo dentro da minha instuição de ensido desenvolvendo projetos para aprimoramento de oportunidades de aprendizado de outras pessoas, inclusive meu TCC passa pela junção das duas áreas que mais amo, logo espero poder compartilhar com vocês aqui está pesquisa que está ficando show!
 ____________________________________________________________________________________________________________________________________________________
@@ -27,21 +27,21 @@ import Desenvolvedor from 'WesleyUlisses';
 
 class SobreMim extends Desenvolvedor
 {
-  nome     = 'Wesley Ulisses Santos';
-  area     = 'Support Operations and Full Stack';
+  nome     = 'Wesley Ulisses';
+  area     = 'Support Operations and Software Developer Engineer';
   trabalho = 'WEX inc and LabsIF';
   local    = 'Anywhere Office';
 }
 
 class Skills extends Desenvolvedor
 {
-  linguagens    = ['Java, JavaScript, Node, Dart'];
+  linguagens    = ['C#, Java, Python'];
   bibliotecas   = ['AWT, Swing'];
-  frameworks    = ['Spring, Fluter, React Native, React'];
+  frameworks    = ['Spring, .NET, .NET Framework'];
   database      = ['MySql, Oracle, Firebase'];
   devops        = ['Azure DevOps, Docker, Datadog'];
-  cloud         = ['AWS EC2, ECS, IAM, S3'];
-  gerenciamento = ['Trello, Azure DevOps'];
+  cloud         = ['AWS EC2, ECS'];
+  gerenciamento = ['Trello, Azure DevOps, Clickup'];
 }
 ```
 <br/>
