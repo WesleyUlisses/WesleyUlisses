@@ -75,56 +75,6 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________
 
-<br/>
-
-* Aqui poderemos ver projetos como o guia prático de versionamento, um projeto aberto onde todos podemos redigir um pouco deste guia, pensando sempre que o mesmo será uma ferramenta para auxiliar quem trabalha com programação e principalmente que está começando agora nesta área tão grande.
-
-* Temos um repositório voltado para carreiras, onde todos podem colaborar falando um pouco da sua carreira na área de TI, isso pode ajudar tanto quem está começando quanto quem deseja fazer uma transição de carreira para outra área dentro da TI.
-
-* Links de cursos, voltado para o desenvolvimento geral, não só cursos da galera da área de TI, pois sabemos que o mercado não olha somente para o conhecimento técnico mas sim um conjunto do técnico com o interpessoal.
-
-* Dicas de problemas reais que podemos resolver e nosso portfólio ganhar um pouco mais de corpo.
-
-* Dicas para seu LinkedIn, como ter um perfil mais atraente, obs "falando a verdade!!!".
-
-* Projetos de software e APPs para compartilhamento de ideias e aprendizado.
-
-* GPT, prompts para melhor aproveitamento da ferramenta.
-
-
-____________________________________________________________________________________________________________________________________________________
-<!--Titulo -->
-<h3 align="center">
-        <samp>&gt; Seguem ai alguns repositorios para a comunidade Open Source 🫡
-        </samp>
-</h3> 
-
-____________________________________________________________________________________________________________________________________________________
-
-<br/>
-
-<!--Tabela para fotos com redimencionamento -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/WesleyUlisses/Aprendendo-ensinando---Versionamento"><img src="https://user-images.githubusercontent.com/90068576/233735242-188b0b33-1286-479c-a748-f25ab8a5c9c7.png" width="465"></a>
-    </td>
-    <td>
-      <a href="https://github.com/WesleyUlisses/Ideias-para-Projeto-Devs"><img src="https://user-images.githubusercontent.com/90068576/233736048-35924683-2149-40a6-97c1-177fd4242c04.png" width="465"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/WesleyUlisses/Carreiras-na-TI"><img src="https://user-images.githubusercontent.com/90068576/233736091-a9334efc-a4d0-47a1-8eee-5330c21ab902.png" width="465"></a>
-    </td>
-    <td>
-      <a href="https://github.com/WesleyUlisses/LinkedIn-dicas-para-seu-perfil"><img src="https://user-images.githubusercontent.com/90068576/233736296-6ec58f7b-17ca-4d55-b1cc-011d3b1364fa.png" width="465"></a>
-    </td>
-  </tr>
-</table>
-
-
-
 <!--Titulo -->       
 <br/>
 <h3 align="center">
