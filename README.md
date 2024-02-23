@@ -6,11 +6,9 @@
 
 
 ____________________________________________________________________________________________________________________________________________________
-Eu sou um desenvolvedor com dois anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Faço parte do time de uma empresa incrivel que é a WEX inc, onde intégro o time de Softwares Developers Engineers, lá e tenho aprendido e colaborado bastante além de melhorar demais meu inglês, uma vez que a WEX é uma empresa norte americana.
+Eu sou um desenvolvedor com 4 anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Faço parte do time de uma empresa incrivel que é a WEX inc, onde intégro o time de Softwares Engineers, lá e tenho aprendido e colaborado bastante além de melhorar demais meu inglês, uma vez que a WEX é uma empresa norte americana.
 
-Minhas principais habilidades são em C#, Java e Python. Tenho conhecimento avançado em bibliotecas como AWT e Swing. Além de também possuir conhecimentos em AWS EC2 e S3 (que cheguem logo essas certificações 🙂), também tenho amplo conhecimento nas plataformas Clickup, Microsoft Azure DevOps e Trello pois faço uso no gerenciamento de times de desenvolmento e no dia dia.
-
-Atualmente no 5º periodo, estou cursando bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia e vivo sempre buscando aprimorar minhas habilidades e conhecimentos em programação e tecnologia.
+Minhas principais habilidades são em C#, Java, Python e Typescript, também tenho amplo conhecimento nas plataformas para gerenciamento de times e processos, como, Clickup, Microsoft Azure DevOps, Jira e Trello pois faço uso no gerenciamento de times de desenvolmento e no dia dia.
 
 Quase me esqueci, sou amante da área de educação e sigo dentro da minha instuição de ensido desenvolvendo projetos para aprimoramento de oportunidades de aprendizado de outras pessoas, inclusive meu TCC passa pela junção das duas áreas que mais amo, logo espero poder compartilhar com vocês aqui está pesquisa que está ficando show!
 ____________________________________________________________________________________________________________________________________________________
@@ -28,20 +26,20 @@ import Desenvolvedor from 'WesleyUlisses';
 class SobreMim extends Desenvolvedor
 {
   nome     = 'Wesley Ulisses';
-  area     = 'Support Operations and Software Developer Engineer';
+  area     = 'Software Engineer';
   trabalho = 'WEX inc and LabsIF';
   local    = 'Anywhere Office';
 }
 
 class Skills extends Desenvolvedor
 {
-  linguagens    = ['C#, Java, Python'];
-  bibliotecas   = ['AWT, Swing'];
-  frameworks    = ['Spring, .NET, .NET Framework'];
-  database      = ['MySql, Oracle, Firebase'];
-  devops        = ['Azure DevOps, Docker, Datadog'];
-  cloud         = ['AWS EC2, ECS'];
-  gerenciamento = ['Trello, Azure DevOps, Clickup'];
+  linguagens    = ['C#, Java, Python, Typescript, JavaScript'];
+  bibliotecas   = ['AWT, Swing, React, Express'];
+  frameworks    = ['Spring, .NET, .NET Framework, Angular'];
+  database      = ['MySql, Oracle, Firebase, Postgres'];
+  devops        = ['Azure DevOps, Docker, Datadog, Jenkins, Kubernets, RPA Automation'];
+  cloud         = ['AWS EC2, ECS, EKS, S3, Lambda, GCP Cloud Storage'];
+  gerenciamento = ['Trello, Azure DevOps, Clickup, Jira'];
 }
 ```
 <br/>
