@@ -6,11 +6,11 @@
 
 
 ____________________________________________________________________________________________________________________________________________________
-Eu sou um desenvolvedor com 4 anos de experiência na área. Tive a oportunidade de liderar alguns projetos de sofwares e sistemas que modificaram positivamente o ecossistema do lugares onde passei, logo gostaria de compartilhar um pouco dessas minhas vivências com vocês. Faço parte do time de uma empresa incrivel que é a WEX inc, onde intégro o time de Softwares Engineers, lá e tenho aprendido e colaborado bastante além de melhorar demais meu inglês, uma vez que a WEX é uma empresa norte americana.
+Olá, tudo bem?
 
-Minhas principais habilidades são em C#, Java, Python e Typescript, também tenho amplo conhecimento nas plataformas para gerenciamento de times e processos, como, Clickup, Microsoft Azure DevOps, Jira e Trello pois faço uso no gerenciamento de times de desenvolmento e no dia dia.
+É um prazer conectar-me com você aqui! Sou um Desenvolvedor Full Stack com forte experiência em desenvolvimento web. Trabalho com TypeScript, Angular, JavaScript, Node.js, C#, .NET, ASP.NET, Java, Spring Boot, SQL, entre outras. Tenho experiência e conhecimentos sólidos em DevOps e Arquitetura de Sistemas. Liderei times de desenvolvimento em mais de 6 grandes projetos nas áreas de Financeira, Saúde, Educação e ERPs Open Source. Além disso, trabalho há mais de 2 anos com times internacionais, utilizando o inglês como língua principal de comunicação.
 
-Quase me esqueci, sou amante da área de educação e sigo dentro da minha instuição de ensido desenvolvendo projetos para aprimoramento de oportunidades de aprendizado de outras pessoas, inclusive meu TCC passa pela junção das duas áreas que mais amo, logo espero poder compartilhar com vocês aqui está pesquisa que está ficando show!
+Enfim, é um prazer me conectar com você aqui no LinkedIn. Estou sempre aberto para auxiliar no que for preciso e também estou disponível para novas oportunidades.
 ____________________________________________________________________________________________________________________________________________________
 
 <!--Titulo -->
