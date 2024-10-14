@@ -8,7 +8,7 @@
 ____________________________________________________________________________________________________________________________________________________
 Olá, tudo bem?
 
-É um prazer conectar-me com você aqui! Sou um Desenvolvedor Full Stack com forte experiência em desenvolvimento web. Trabalho com TypeScript, Angular, JavaScript, Node.js, C#, .NET, ASP.NET, Java, Spring Boot, SQL, entre outras. Tenho experiência e conhecimentos sólidos em DevOps e Arquitetura de Sistemas. Liderei times de desenvolvimento em mais de 6 grandes projetos nas áreas de Financeira, Saúde, Educação e ERPs Open Source. Além disso, trabalho há mais de 2 anos com times internacionais, utilizando o inglês como língua principal de comunicação.
+É um prazer conectar-me com você aqui! Sou um Desenvolvedor Full Stack com forte experiência em desenvolvimento web. Trabalho com TypeScript, Angular, JavaScript, Node.js, C#, .NET, ASP.NET, Java, Spring Boot, SQL, entre outras. Tenho experiência e conhecimentos sólidos em DevOps e Arquitetura de Sistemas. Liderei times de desenvolvimento em mais de 9 grandes projetos nas áreas de Financeira, Saúde, Educação e ERPs Open Source. Além disso, trabalho há mais de 2 anos com times internacionais, utilizando o inglês como língua principal de comunicação.
 
 Enfim, é um prazer me conectar com você aqui no LinkedIn. Estou sempre aberto para auxiliar no que for preciso e também estou disponível para novas oportunidades.
 ____________________________________________________________________________________________________________________________________________________
@@ -27,19 +27,17 @@ class SobreMim extends Desenvolvedor
 {
   nome     = 'Wesley Ulisses';
   area     = 'Software Engineer';
-  trabalho = 'WEX inc and LabsIF';
   local    = 'Anywhere Office';
 }
 
 class Skills extends Desenvolvedor
 {
   linguagens    = ['C#, Java, Python, Typescript, JavaScript'];
-  bibliotecas   = ['AWT, Swing, React, Express'];
-  frameworks    = ['Spring, .NET, .NET Framework, Angular'];
-  database      = ['MySql, Oracle, Firebase, Postgres'];
-  devops        = ['Azure DevOps, Docker, Datadog, Jenkins, Kubernets, RPA Automation'];
-  cloud         = ['AWS EC2, ECS, EKS, S3, Lambda, GCP Cloud Storage'];
-  gerenciamento = ['Trello, Azure DevOps, Clickup, Jira'];
+  frameworks    = ['Spring, .NET, .NET Framework, Angular, React, NEST, Express, Vite'];
+  database      = ['MySql, Oracle, Firebase, Postgres, SQL Server'];
+  devops        = ['Azure DevOps, Docker, Datadog, Jenkins, Kubernets, RPA Automation, GitHub Actions'];
+  cloud         = ['AWS EC2, ECS, EKS, S3, Lambda, SQS, SNS, SES, ALB, IAM, ARN, Amplify, CloudFront, VPC, ECR...'];
+
 }
 ```
 <br/>
