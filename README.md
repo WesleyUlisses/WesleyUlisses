@@ -61,16 +61,6 @@ class Skills extends Desenvolvedor
   <a href="https://github.com/WesleyUlisses">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=WesleyUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-  
-____________________________________________________________________________________________________________________________________________________
-
-
-<!--Titulo -->
-<h3 align="center">
-        <samp>&gt; O que verão em meu perfi? 🤔
-        </samp>
-</h3> 
-
 ____________________________________________________________________________________________________________________________________________________
 
 <!--Titulo -->       
